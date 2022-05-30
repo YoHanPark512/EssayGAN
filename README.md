@@ -14,5 +14,5 @@
 
   ![model_seqgan](./assets/model_essaygan.png)
 
-## Requrements Library
+## Requirements Library
 TextGAN https://github.com/williamSYSU/TextGAN-PyTorch
